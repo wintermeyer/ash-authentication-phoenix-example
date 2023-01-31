@@ -1,4 +1,4 @@
-# Example Authenticate with Ash
+# Example Authenticate with Ash in Phoenix
 
 This repo is the resulting source code of the [Getting Started Ash Authentication Phoenix](https://github.com/team-alembic/ash_authentication_phoenix/blob/main/documentation/tutorials/getting-started-with-ash-authentication-phoenix.md) tutorial. It is meant to be a starting point for training purposes.
 
